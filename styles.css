@@ -1,0 +1,62 @@
+*{
+    padding: 0%;
+    margin: 1cap;
+    
+
+}
+section{
+    height: 100vh;
+}
+#home{
+    background-image: url(piz.jpg);
+    color: aqua;
+}
+header{
+    background-color: black;
+    justify-content: space-between;
+    }
+header nav {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;}
+   
+ 
+#links {
+display: flex;
+flex-direction: row;
+gap: 30px;
+}
+#links a{
+    text-decoration: none;
+    color: white;
+}
+#h{
+    text-align: center;
+    padding-top: 50px;
+}
+#greet h1,p{
+    text-align: center;
+}
+#tf {
+    text-align: start;
+}
+#btn{
+ color: #000;
+ 
+}
+#about{
+    text-align: center;
+    background-color: yellow;
+    background-color: #ffffff8a;
+}
+footer #flinks{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    background-color: #000;
+}
+footer #flinks a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
